@@ -363,6 +363,13 @@ footer .link-group a:hover{
 .social-links .whatsapp{
   color: #25D366;
 }
+
+.social-links .github{
+  color: #2b3137;
+}
+.social-links .github:hover{
+  background-color: #2b3137;
+}
 .social-links .whatsapp:hover{
   background-color: #25D366;
 }
@@ -389,3 +396,9 @@ footer .link-group a:hover{
   color: #fff;
   animation: pulse 3s infinite;
 }
+
+a {
+  text-decoration: none; /* Hide the underline */
+  color: blue; /* Change the text color to blue */
+}
+
