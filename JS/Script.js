@@ -41,8 +41,8 @@ let progressjs = setInterval(() => {
 }, jsspeed);
 
 // php progress circular bar 
-let phpProgress = document.querySelector(".php"),
-  phpValue = document.querySelector(".php-progress");
+let phpProgress = document.querySelector(".figma"),
+  phpValue = document.querySelector(".figma-progress");
 
 let phpStartValue = 0,
   phpEndValue = 80,
